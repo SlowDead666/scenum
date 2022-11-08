@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Dandara Fereira Grata",
 	"birthdate": "1991 June 9",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -26,7 +26,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668480756,
+			"expirationDate": 1668534758,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699411354.936782,
+			"expirationDate": 1699465815.452134,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699411354.936795,
+			"expirationDate": 1699465815.452192,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "12%3AOpPSDE1n_rUDew%3A2%3A1667875371%3A-1%3A-1"
+			"value": "12%3AOpPSDE1n_rUDew%3A2%3A1667875371%3A-1%3A-1%3A%3AAcUPRaIMucwVgsvSN378u_fPhIzE7Lsk-yPE_U66Pw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675651851.675751,
+			"expirationDate": 1675705816.981066,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0mmvYTIri0IVJInw5.AWVTOg-k6Lq00SN63iArhhBgMEs.BjacHn.MB.AAA.0.0.BjacQM.AWVUmSwBSgQ"
+			"value": "0miSiBhuklioNjOe3.AWV6OfnneqBybYPaOqY_ASacuDo.BjapbY.MB.AAA.0.0.BjapbZ.AWX6I17JIGE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667875963414%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667929931867%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "08.11.2022 03:08 Registro"
+	"lastEventDate": "08.11.2022 17:52 Teste"
 }
