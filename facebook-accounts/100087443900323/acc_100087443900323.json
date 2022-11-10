@@ -8,8 +8,8 @@
 	"amountFriends": "",
 	"screenname": "Karina Silva Alinda",
 	"birthdate": "1990 September 20",
-	"country": "",
-	"isAvatarExists": false,
+	"country": "Brazil",
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -26,7 +26,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668652742,
+			"expirationDate": 1668713953,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699583261.677605,
+			"expirationDate": 1699644974.710085,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699583261.677616,
+			"expirationDate": 1699644974.71014,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "13%3AgeW3cMfKELs3hg%3A2%3A1668047275%3A-1%3A-1"
+			"value": "13%3AgeW3cMfKELs3hg%3A2%3A1668047275%3A-1%3A-1%3A%3AAcUIeiVsXQl5KSee2XWfBc5RP_o79VXS8S8RBPiOwA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675823774.038773,
+			"expirationDate": 1675884976.714012,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ZMpEd9nNJc4hBsC2.AWVXQ91brs9Om5Dw1PW1lVoVU50.BjbGFm.Cq.AAA.0.0.BjbGOe.AWWvSyZChTU"
+			"value": "0hUvTeN2CA6UGlZ4f.AWU22_MfeRMB2bWyPa3bkk6tcDI.BjbVKv.Cq.AAA.0.0.BjbVKx.AWXAQzfaWgg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668047898476%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668109126287%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "10.11.2022 19:36 D3 - Aquecimento"
+	"lastEventDate": "10.11.2022 19:39 D3 - Aquecimento"
 }
