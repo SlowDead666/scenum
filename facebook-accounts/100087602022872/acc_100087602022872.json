@@ -9,7 +9,7 @@
 	"screenname": "Dandara Victoria Abonita",
 	"birthdate": "1993 April 9",
 	"country": "",
-	"isAvatarExists": false,
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668654883,
+			"expirationDate": 1668715972,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699585435.804561,
+			"expirationDate": 1699646975.864334,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699585435.804574,
+			"expirationDate": 1699646975.864387,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "24%3ANNxE5hHqBgrsOw%3A2%3A1668049446%3A-1%3A-1"
+			"value": "24%3ANNxE5hHqBgrsOw%3A2%3A1668049446%3A-1%3A-1%3A%3AAcUbVy8H1ksm-JKsnK3KVyN-4YOwbt5zb5_OdSkrRg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675825917.168704,
+			"expirationDate": 1675886976.489616,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "06gOdbejshiiCeXoz.AWUgfkmg2u-ya071AldGB4GNPtU.BjbGng.nq.AAA.0.0.BjbGv9.AWXR7QQ2t9U"
+			"value": "0W3rOjiBAeP8yy5hM.AWUr5Wm_zKJdE2w3TYPusrOSnp8.BjbVqA.nq.AAA.0.0.BjbVqB.AWXDohTfnvc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668050060790%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668111125918%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "10.11.2022 20:09 D3 - Aquecimento"
+	"lastEventDate": "10.11.2022 20:12 D3 - Aquecimento"
 }
