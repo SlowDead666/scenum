@@ -8,8 +8,8 @@
 	"amountFriends": "",
 	"screenname": "Dandara Vianna Alinda",
 	"birthdate": "1987 April 23",
-	"country": "",
-	"isAvatarExists": false,
+	"country": "Brazil",
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -39,19 +39,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668657277,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1366x625"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1668656674.406139,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -65,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699587859.406203,
+			"expirationDate": 1699649340.546494,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +65,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699587859.406215,
+			"expirationDate": 1668718299,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1366x665"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1699649340.546556,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "23%3AH0XxqWnxzMYRYg%3A2%3A1668051872%3A-1%3A-1"
+			"value": "23%3AH0XxqWnxzMYRYg%3A2%3A1668051872%3A-1%3A-1%3A%3AAcUBmQhNXaLyIYvTNAiAJVZZG5rFOzU1y5Y8Z0H4-w"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675828331.885999,
+			"expirationDate": 1675889341.365713,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0U68iyegoXrRXAWTL.AWWVphdAMXWNY_ufmXFA6K4QS-o.BjbHNh._e.AAA.0.0.BjbHVs.AWVS8XqUXVA"
+			"value": "0DPau6g2YSwiIzw2b.AWXcUVP-sk_JftxJJ6HSleSEeus.BjbWO9._e.AAA.0.0.BjbWO-.AWXWMFclYa8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668052454909%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668113495668%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "10.11.2022 20:48 D3 - Aquecimento"
+	"lastEventDate": "10.11.2022 20:51 D3 - Aquecimento"
 }
