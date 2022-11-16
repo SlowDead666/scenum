@@ -9,7 +9,7 @@
 	"screenname": "Thailine Dos Santos Abencoada",
 	"birthdate": "1990 May 14",
 	"country": "",
-	"isAvatarExists": false,
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -26,7 +26,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669161312,
+			"expirationDate": 1669212246,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700091957.560497,
+			"expirationDate": 1700143316.557005,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700091957.56051,
+			"expirationDate": 1700143316.557049,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "38%3AHK4wGgirlLydRg%3A2%3A1668555970%3A-1%3A-1"
+			"value": "38%3AHK4wGgirlLydRg%3A2%3A1668555970%3A-1%3A-1%3A%3AAcUgEp3Kp7DWkux_UScYEG2KGArDA2JLCAgrhb-c8Q"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676332374.126996,
+			"expirationDate": 1676383315.557071,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "02qW0yLAeOrUHZwmP.AWXrVmFXpULV2JbBrVHg2B9S1u4.BjdCR8.hl.AAA.0.0.BjdCZW.AWWN9lZcoaA"
+			"value": "07MWfkpiiG8qtUcES.AWXIMYWRcw9K6zFGugYBRZEdjYc.BjdO1V.hl.AAA.0.0.BjdO1V.AWV1O-YEPTA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668556490842%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668607422891%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "16.11.2022 14:01 D3 - Aquecimento"
+	"lastEventDate": "16.11.2022 14:04 D3 - Aquecimento"
 }
