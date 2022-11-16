@@ -6,7 +6,7 @@
 	"amountFriends": "",
 	"screenname": "Fernando Da Silva Mendes",
 	"birthdate": "1998 February 5",
-	"country": "",
+	"country": "Claras",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -63,7 +63,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669207708,
+			"expirationDate": 1669209867,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -89,7 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676378785.941771,
+			"expirationDate": 1676380959.805898,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -98,7 +98,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Y9IXEWQYuNg9aJ9j.AWW7BYHDM6ZaDx-MCaZC84Rj9xc.BjdNuj.CL.AAA.0.0.BjdNuj.AWVKLNPjdnM"
+			"value": "0Y9IXEWQYuNg9aJ9j.AWUu7RZ-5CRG5lzThzI9G9mqB-Y.BjdNuj.CL.AAA.0.0.BjdOQg.AWWeyYhDUtE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -110,8 +110,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668602886146%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668605073425%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "16.11.2022 13:22 D3 - Aquecimento"
+	"lastEventDate": "16.11.2022 13:24 D3 - Aquecimento"
 }
