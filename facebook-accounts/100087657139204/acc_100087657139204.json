@@ -8,8 +8,8 @@
 	"amountFriends": "",
 	"screenname": "Thailine Dos Santos Alinda",
 	"birthdate": "1987 February 28",
-	"country": "",
-	"isAvatarExists": false,
+	"country": "Brazil",
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669161403,
+			"expirationDate": 1669209817,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700092044.853187,
+			"expirationDate": 1700140922.838502,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700092044.853202,
+			"expirationDate": 1700140922.838554,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "12%3ABjoauZtcIglAww%3A2%3A1668556054%3A-1%3A-1"
+			"value": "12%3ABjoauZtcIglAww%3A2%3A1668556054%3A-1%3A-1%3A%3AAcUEjaWKZIEZTIG5_DLhJAQAzCb6QmRhTaNiyee7_g"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676332468.28405,
+			"expirationDate": 1676380921.83858,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "04tX5y5XjjZ4D28xm.AWX9BFV41005tTjiMpGYSls4eY0.BjdCTY.sT.AAA.0.0.BjdCa1.AWWnTuFVcig"
+			"value": "0UVxVhh3O8X9lmCxK.AWUH8-MlT7ZUGk432vNe0ypvq00.BjdOP7.sT.AAA.0.0.BjdOP7.AWXMPlHY2Ms"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668556581144%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668605008876%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "16.11.2022 13:21 D3 - Aquecimento"
+	"lastEventDate": "16.11.2022 13:23 D3 - Aquecimento"
 }
