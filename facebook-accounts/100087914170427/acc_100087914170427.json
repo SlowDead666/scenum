@@ -8,8 +8,8 @@
 	"amountFriends": "",
 	"screenname": "Dandara Victoria Silva",
 	"birthdate": "1997 April 4",
-	"country": "",
-	"isAvatarExists": false,
+	"country": "Claras",
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -26,7 +26,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669161297,
+			"expirationDate": 1669212233,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700092002.904321,
+			"expirationDate": 1700143339.789085,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700092002.904336,
+			"expirationDate": 1700143339.789143,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "14%3ASDL8-tSj_jlNXg%3A2%3A1668556013%3A-1%3A-1"
+			"value": "14%3ASDL8-tSj_jlNXg%3A2%3A1668556013%3A-1%3A-1%3A%3AAcW9yNQsfVHCnM8K7-Hex5dY1m80cMZOp9RbnR3xVA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676332395.566528,
+			"expirationDate": 1676383338.789172,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0bOIu13lImqn4SiQG.AWUuKEtGcUBLh34wQYFCy5oZPLg.BjdCSu.iR.AAA.0.0.BjdCZs.AWV00cJyTrU"
+			"value": "06DhAOmArmgVLH4En.AWXefWX1ABa2gnahPicgox_F_Zc.BjdO1s.iR.AAA.0.0.BjdO1s.AWVAtGreo9Y"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668556502650%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668607424620%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "16.11.2022 14:02 D3 - Aquecimento"
+	"lastEventDate": "16.11.2022 14:03 D3 - Aquecimento"
 }
