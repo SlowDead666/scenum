@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670022672,
+			"expirationDate": 1670024648,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677193706.064009,
+			"expirationDate": 1677195697.85497,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,7 +87,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0PMDzqoDe9boufOOV.AWVmD4v2fPW6R24SXBI5ckFRQHA.BjgUrr.hl.AAA.0.0.BjgUrr.AWWrumxC5iY"
+			"value": "0PMDzqoDe9boufOOV.AWWUyJStDHWLvQ1v43xDLgBUpxo.BjgUrr.hl.AAA.0.0.BjgVKy.AWUV1gk1BZk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -99,8 +99,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669417828308%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669419804547%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "25.11.2022 23:41  D4 - Aquecimento"
+	"lastEventDate": "25.11.2022 23:44  D4 - Aquecimento"
 }
