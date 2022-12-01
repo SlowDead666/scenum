@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Stephanie Alves Freitas",
 	"birthdate": "1991 September 23",
-	"country": "",
+	"country": "Claras",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -26,7 +26,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670357157,
+			"expirationDate": 1670485247,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1701287815.498492,
+			"expirationDate": 1701414782.049137,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1701287815.49851,
+			"expirationDate": 1701414782.049199,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "40%3A87j6b1T5szo32Q%3A2%3A1669751823%3A-1%3A-1"
+			"value": "40%3A87j6b1T5szo32Q%3A2%3A1669751823%3A-1%3A-1%3A%3AAcVIz0r3eBeuAgcCoUplAm93hS3E8TQW9jG_wapQNQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677528219.884558,
+			"expirationDate": 1677656332.745769,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0UvONbYDhOPtBfSXV.AWV1o8SjwlR1rYEgJhuvG4Ap4T0.BjhmPS.Me.AAA.0.0.BjhmWc.AWViLB1ltcY"
+			"value": "0dHaf3KswNdLySKke.AWVsslS4961tqPwIhV4zZpyGgDg.BjiFP-.Me.AAA.0.0.BjiFoN.AWXy_cf_aXA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669752335134%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669880445323%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "01.12.2022 07:38 D3 - Aquecimentoo"
+	"lastEventDate": "01.12.2022 07:40 D3 - Aquecimentoo"
 }
