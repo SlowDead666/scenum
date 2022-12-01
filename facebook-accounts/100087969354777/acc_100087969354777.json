@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "01.12.2022 07:43 Apos criar o perfil - like",
+	"lastEventDate": "01.12.2022 07:58 Apos criar o perfil - like",
 	"status": 2,
 	"id": "100087969354777",
 	"name": "",
@@ -25,7 +25,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670484869,
+			"expirationDate": 1670486296,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677655906.460596,
+			"expirationDate": 1677657326.547227,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0WZstQnZLdNBP2LIJ.AWWtcWqzkSsLTQq0RNaTi5tOLos.BjiFOb.lB.AAA.0.0.BjiFhj.AWWx9EQia4Q"
+			"value": "0WZstQnZLdNBP2LIJ.AWWIzvyl2oLQzcBBtVCUThl0hYE.BjiFOb.lB.AAA.0.0.BjiF3v.AWW2Iq9ENp4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669880044041%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669881473447%2C%22v%22%3A1%7D"
 		}
 	]
 }
