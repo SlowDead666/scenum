@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1701626671.966878,
+			"expirationDate": 1701699121.498524,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670695597,
+			"expirationDate": 1670768050,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -65,7 +65,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1701626671.96693,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJtYnd5aGRzbThkaSIsInRpbWUiOjE2NzAwOTQ4MTN9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1701699121.498577,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "33%3AdNKLO23moEPEsg%3A2%3A1668555897%3A-1%3A-1%3A%3AAcU47aeH6-_fY5Ncc0FAnIh3skPy7eGIyCEicpP7iTw"
+			"value": "33%3AdNKLO23moEPEsg%3A2%3A1668555897%3A-1%3A-1%3A%3AAcV0ffCpBfxelcdmjwXG7pjl8kr0ekR6qPJfVdhLCgo"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677866670.966958,
+			"expirationDate": 1677939123.391476,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0uGFagVO0gILks4hO.AWVZGkFGcwTWnJwFMd-gMCEdLDw.Bji4-w.oz.AAA.0.0.Bji4-w.AWXvnIvZ0Lk"
+			"value": "0TZhFFrxCyYYYCecZ.AWXwObYzVkQ9DZoaqx8aWxSz9GM.BjjKqy.oz.AAA.0.0.BjjKq0.AWXxzHF_Ca0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -99,8 +111,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.108388179290443%22%7D%5D%2C%22utc3%22%3A1670090773317%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.108388179290443%22%7D%5D%2C%22utc3%22%3A1670163228121%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "04.12.2022 14:11 D6 - Aquecimento"
+	"lastEventDate": "04.12.2022 14:14 D6 - Aquecimento"
 }
